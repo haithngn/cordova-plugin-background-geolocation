@@ -1,5 +1,8 @@
 ## Changelog
 
+### [3.1.1] - 2023-02-20
+- set specify an explicit value for `android:exported` attribute in the AndroidManifest.xml file.
+
 ### [3.1.0] - 2019-09-24
 ### Fixed
 - fix package scope
